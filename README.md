@@ -23,5 +23,5 @@ This Power BI dashboard analyzes sales and profit performance across categories,
 - Excel (Data Source)
 
 ## 📷 Dashboard Preview
-![Sales Analysis](Sales analysis.jpeg)
+![Sales_dashboard.png.jpeg](Sales_dashboard.png.jpeg)
 
